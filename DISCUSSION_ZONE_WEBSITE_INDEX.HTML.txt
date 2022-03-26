@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="./css/website-css.css" />
+    <h1>THEDISCUSSIONZONE.CO.UK</h1>
+    <style>
+      h1 {
+      display: block;
+      font-family: "arial";
+      font-size: 2em;
+      margin-top: 0.67em;
+      margin-bottom: 0.67em;
+      margin-left: 0;
+      margin-right: 0;
+      font-weight: bold;
+      text-align: center;
+      color: yellow;
+      }
+    </style>
+    <title>Welcome</title>
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li><a href="about-us.html">ABOUT US</a></li>
+        <li><a href="news.html">NEWS</a></li>
+        <li><a href="pictures.html">PICS</a></li>
+        <li><a href="tunes.html">TUNES</a></li>
+        <li><a href="videos.html">VIDEOS</a></li>
+        <li><a href="back-catalogue.html">BACK CATALOGUE</a></li>
+        <li><a href="book-us.html">BOOK US</a></li>
+      </ul>
+    </nav>
+    <div class="picture_div" style="margin:0px auto; width: 250; height: 125; text-align:center;">
+      <img src="./images/MONKEES_HOMEPAGE.jpg" style="width:1060px;height:300px"/>
+    </div>
+    <br>
+    <a href="https://www.facebook.com" target="_blank"><img src="./images/facebook-icon.jpg"style= "width:75px;height:75px;margin-left: 10px;"></a>
+    <a href="https://www.twitter.com" target="_blank"><img src="./images/Twitter-Download.png"style= "width:75px;height:75px;"></a>
+    <a href="https://www.youtube.com" target="_blank"><img src="./images/youtube-logo.jpg"style= "width:75px;height:75px;"></a>
+  </body>
+</html>
